@@ -2,7 +2,9 @@
 title: "ML Course Project"
 author: "Anna Lyamkina"
 date: "19 4 2021"
-output: html_document
+output: 
+        html_document:
+                keep_md: true
 ---
 
 ```{r setup, include=FALSE}
